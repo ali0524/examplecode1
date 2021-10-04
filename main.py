@@ -5,5 +5,9 @@ def print_hi(name):
 def function_1():
     print("hello from function 1")
 
+def function_2():
+    print("hello from function 2")
+
+
 if __name__ == '__main__':
-    print_hi('ali')
+    print_hi('yesss')
